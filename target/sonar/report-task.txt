@@ -1,0 +1,7 @@
+organization=hg0903
+projectKey=HG0903_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=HG0903_ProyectoJavaMaven
+ceTaskId=AXqhcowslG1PxIkOEyxO
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqhcowslG1PxIkOEyxO
